@@ -14,6 +14,7 @@ Java open source e-commerce software
 - Checkout
 - Administration
 - REST API
+- new
 
 See the demo:
 -------------------
